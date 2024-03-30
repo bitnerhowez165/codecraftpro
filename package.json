@@ -1,0 +1,33 @@
+{
+  "name": "codecraftpro",
+  "version": "1.0.2",
+  "description": "codecraftpro",
+  "type": "module",
+  "main": "codecraftpro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitnerhowez165/codecraftpro"
+  },
+  "website": "https://github.com/bitnerhowez165/codecraftpro.git",
+  "keywords": [
+    "codecraftpro"
+  ],
+  "author": "bitnerhowez165",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitnerhowez165/codecraftpro/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/bitnerhowez165/codecraftpro#readme",
+  "dependencies": {
+    "scriptcraftsavvy": "1.0.2",
+    "devcodesage": "1.0.2",
+    "user_system_authenticationsse": "1.0.2"
+  }
+}
